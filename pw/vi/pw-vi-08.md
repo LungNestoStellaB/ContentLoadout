@@ -1,9 +1,12 @@
-# PW Tập 08 — Đôi Tay Bạn Biết Nhiều Hơn Bạn Nghĩ
+# PW Episode 08 — Đôi Tay Bạn Biết Nhiều Hơn Bạn Nghĩ
 
-## Mô tả
+## Title
+Đôi Tay Bạn Biết Nhiều Hơn Bạn Nghĩ
+
+## Description
 Chúng ta thuê ngoài mọi thứ — nấu ăn, trồng trọt, sửa chữa, xây dựng. Và khi làm vậy, chúng ta cũng giao luôn sự tự tin của mình cho người khác. Quốc vương Bhumibol tin sâu sắc rằng kỹ năng thực tế là nền tảng của một cuộc sống có phẩm giá. Tập này nói về việc giành lại những gì đôi tay bạn đã biết sẵn.
 
-## Kịch bản
+## Clean Script
 
 Lần gần nhất bạn tự tay sửa một thứ là khi nào?
 
@@ -33,7 +36,7 @@ Nấu một món từ đầu.
 Đôi tay bạn vẫn nhớ.
 Hãy cho chúng cơ hội để chứng minh điều đó.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Đôi Tay Bạn Biết Nhiều Hơn Bạn Nghĩ | Trí Tuệ Thực Tế Của Quốc Vương Bhumibol

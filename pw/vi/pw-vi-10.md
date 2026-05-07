@@ -1,9 +1,12 @@
-# PW Tập 10 — Lùi Một Bước, Tiến Mười Bước
+# PW Episode 10 — Lùi Một Bước, Tiến Mười Bước
 
-## Mô tả
+## Title
+Lùi Một Bước, Tiến Mười Bước
+
+## Description
 Đôi khi bước đi khôn ngoan nhất là chậm lại, lùi lại, và xây nền móng cho đúng trước khi mở rộng. Quốc vương Bhumibol gọi đó là nguyên tắc “từng bước một” — và đó là lý do các cộng đồng đi theo triết lý của Ngài có thể đứng vững qua mọi khủng hoảng.
 
-## Kịch bản
+## Clean Script
 
 Ai cũng muốn đi nhanh.
 Mở rộng thật nhanh. Phát triển thật lớn. Đi ngay bây giờ.
@@ -34,7 +37,7 @@ Rồi tiến mười bước — và không gì cản nổi bạn.
 Chậm không phải là yếu.
 Chậm là cách bạn xây nên thứ có thể tồn tại lâu dài.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Lùi Một Bước, Tiến Mười Bước | Nguyên Tắc Từng Bước Một Của Quốc Vương Bhumibol

@@ -1,9 +1,12 @@
-# PW Tập 09 — Khu Vườn Của Nhà Vua
+# PW Episode 09 — Khu Vườn Của Nhà Vua
 
-## Mô tả
+## Title
+Khu Vườn Của Nhà Vua
+
+## Description
 Quốc vương Bhumibol không chỉ nói về sự đủ đầy. Ngài đã xây dựng nó. Những nông trại thực nghiệm tại Cung điện Chitralada đã trở thành bằng chứng sống rằng triết lý ấy hiệu quả — và là mô hình lan khắp Thái Lan. Tập này nói về việc dẫn dắt bằng chính tấm gương của mình.
 
-## Kịch bản
+## Clean Script
 
 Bên trong những bức tường của Cung điện Chitralada,
 Quốc vương Bhumibol đã xây dựng một nông trại.
@@ -33,7 +36,7 @@ hãy sống nó trước.
 Khu vườn của Nhà Vua không chỉ là một nông trại.
 Nó là một lời hứa.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Khu Vườn Của Nhà Vua — Quốc Vương Bhumibol Chứng Minh Triết Lý Của Mình Như Thế Nào

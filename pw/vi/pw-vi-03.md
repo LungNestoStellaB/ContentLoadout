@@ -1,9 +1,12 @@
-# PW Tập 03 — Trồng Một Thứ
+# PW Episode 03 — Trồng Một Thứ
 
-## Mô tả
+## Title
+Trồng Một Thứ
+
+## Description
 Thay đổi có vẻ bất khả thi khi bạn cố thay đổi mọi thứ cùng lúc. Triết lý của Quốc vương Bhumibol bắt đầu nhỏ hơn bạn nghĩ — một cây, một kỹ năng, một thói quen. Tập này nói về sức mạnh của việc bắt đầu chỉ với một thứ.
 
-## Kịch bản
+## Clean Script
 
 Bạn muốn thay đổi cuộc sống.
 Vậy là bạn lập danh sách.
@@ -31,7 +34,7 @@ Nhỏ và thực tế luôn thắng lớn và tưởng tượng.
 Trồng một thứ.
 Rồi trồng thứ tiếp theo.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Trồng Một Thứ — Bước Nhỏ Nhất Đến Cuộc Sống Tốt Hơn | Thực Hành Tôn Kính

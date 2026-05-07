@@ -1,9 +1,12 @@
-# PW Tập 01 — Hạt Giống Bạn Đã Có Sẵn
+# PW Episode 01 — Hạt Giống Bạn Đã Có Sẵn
 
-## Mô tả
+## Title
+Hạt Giống Bạn Đã Có Sẵn
+
+## Description
 Hầu hết mọi người đều chờ đợi thời điểm hoàn hảo, công cụ tốt nhất, điều kiện lý tưởng. Nhưng Quốc vương Bhumibol chưa bao giờ chờ đợi. Ngài bắt đầu từ những gì đang có. Tập này nhắc nhở chúng ta rằng hạt giống của một cuộc sống tốt đẹp hơn đã nằm trong tay bạn rồi.
 
-## Kịch bản
+## Clean Script
 
 Thế giới bảo bạn: hãy chờ đợi.
 Chờ cho đến khi có đủ tiền.
@@ -26,7 +29,7 @@ Nó bắt đầu khi bạn ngừng chờ đợi.
 Bạn đã có hạt giống rồi.
 Hãy gieo nó xuống.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Hạt Giống Bạn Đã Có Sẵn | Bài Học Đầu Tiên Của Quốc Vương Bhumibol

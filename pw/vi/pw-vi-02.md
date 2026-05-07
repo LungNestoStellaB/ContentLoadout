@@ -1,9 +1,12 @@
-# PW Tập 02 — Cái Bẫy Của Sự Đủ Đầy
+# PW Episode 02 — Cái Bẫy Của Sự Đủ Đầy
 
-## Mô tả
+## Title
+Cái Bẫy Của Sự Đủ Đầy
+
+## Description
 Cuộc sống hiện đại được xây dựng trên một lời nói dối: rằng bạn không bao giờ có đủ. Quốc vương Bhumibol đã nhìn thấy rõ cái bẫy này — và dạy một cách đo lường sự giàu có khác. Tập này nói về việc biết khi nào thì đủ thực sự là đủ.
 
-## Kịch bản
+## Clean Script
 
 Mỗi quảng cáo bạn thấy đều nói cùng một điều:
 bạn chưa đến đó.
@@ -32,7 +35,7 @@ Cái bẫy là không bao giờ biết khi nào mình đã đến nơi.
 Hãy quyết định sự đủ đầy trông như thế nào.
 Rồi bảo vệ nó.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Cái Bẫy Của Sự Đủ Đầy — Tại Sao Bạn Không Bao Giờ Cảm Thấy Thỏa Mãn | Thực Hành Tôn Kính

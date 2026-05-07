@@ -1,9 +1,12 @@
-# PW Tập 05 — Điều Đất Đai Còn Nhớ
+# PW Episode 05 — Điều Đất Đai Còn Nhớ
 
-## Mô tả
+## Title
+Điều Đất Đai Còn Nhớ
+
+## Description
 Nông nghiệp hiện đại đã quên mất điều gì đó. Nhưng đất đai thì không. Qua nhiều thế hệ, nông dân khắp châu Á đã trồng lương thực mà không cần hóa chất, không nợ nần, không phụ thuộc. Quốc vương Bhumibol đã dành cả đời để phục hồi kiến thức đó — và nó vẫn còn đó, đang chờ đợi.
 
-## Kịch bản
+## Clean Script
 
 Ông bà của bạn biết điều bạn không biết.
 
@@ -31,7 +34,7 @@ Hãy hỏi chính mảnh đất.
 Câu trả lời luôn ở đó.
 Chúng ta chỉ ngừng lắng nghe.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Điều Đất Đai Còn Nhớ | Trí Tuệ Cổ Xưa Quốc Vương Bhumibol Phục Hồi

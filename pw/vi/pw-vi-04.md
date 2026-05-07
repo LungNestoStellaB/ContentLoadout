@@ -1,9 +1,12 @@
-# PW Tập 04 — Món Nợ Lớn Lên Trong Bóng Tối
+# PW Episode 04 — Món Nợ Lớn Lên Trong Bóng Tối
 
-## Mô tả
+## Title
+Món Nợ Lớn Lên Trong Bóng Tối
+
+## Description
 Nợ không tự thông báo. Nó lớn lên âm thầm, trong khoảng cách giữa những gì bạn kiếm được và những gì bạn chi tiêu. Quốc vương Bhumibol đã cảnh báo người dân về cái bẫy này — và chỉ ra rằng sự đủ đầy là sự bảo vệ thực sự duy nhất.
 
-## Kịch bản
+## Clean Script
 
 Bạn không nhận ra khi nào nó bắt đầu.
 Một khoản vay nhỏ ở đây.
@@ -29,7 +32,7 @@ lớn nhanh hơn bất cứ thứ gì bạn trồng.
 Sự đủ đầy là lá chắn của bạn.
 Hãy xây dựng nó trước khi bạn cần.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Món Nợ Lớn Lên Trong Bóng Tối | Cảnh Báo Tài Chính Của Quốc Vương Bhumibol

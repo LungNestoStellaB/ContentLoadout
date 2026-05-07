@@ -1,9 +1,12 @@
-# PW Tập 06 — Mưa Không Phải Kẻ Thù Của Bạn
+# PW Episode 06 — Mưa Không Phải Kẻ Thù Của Bạn
 
-## Mô tả
+## Title
+Mưa Không Phải Kẻ Thù Của Bạn
+
+## Description
 Chúng ta chống lại thiên nhiên và tự hỏi tại sao mình thua. Quốc vương Bhumibol đã dành nhiều thập kỷ nghiên cứu về nước — cách hứng nó, trữ nó, dẫn nó, và làm việc cùng nó thay vì chống lại nó. Tập này nói về sức mạnh của sự hòa hợp thay vì kháng cự.
 
-## Kịch bản
+## Clean Script
 
 Khi mưa đến, hầu hết mọi người đều phàn nàn.
 Quá nhiều. Quá ít. Sai thời điểm.
@@ -30,7 +33,7 @@ tôi đang chống lại điều này, hay tôi có thể làm việc cùng nó?
 Thiên nhiên không thua.
 Nhưng nó sẽ dạy bạn, nếu bạn lắng nghe.
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Mưa Không Phải Kẻ Thù Của Bạn | Trí Tuệ Về Nước Của Quốc Vương Bhumibol

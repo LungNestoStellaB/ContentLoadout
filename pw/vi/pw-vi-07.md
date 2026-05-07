@@ -1,9 +1,12 @@
-# PW Tập 07 — Ngôi Làng Tự Nuôi Sống Mình
+# PW Episode 07 — Ngôi Làng Tự Nuôi Sống Mình
 
-## Mô tả
+## Title
+Ngôi Làng Tự Nuôi Sống Mình
+
+## Description
 Một gia đình có thể trồng lương thực. Một ngôi làng có thể tự nuôi sống mình. Quốc vương Bhumibol đã chứng minh điều này ở hàng trăm cộng đồng tại Thái Lan — không phải bằng viện trợ, không phải bằng từ thiện, mà bằng sự hợp tác và tự cung tự cấp chung. Tập này nói về sức mạnh của sự tự lực cộng đồng.
 
-## Kịch bản
+## Clean Script
 
 Một người trồng lương thực là sự sống còn.
 Mười gia đình chia sẻ những gì họ trồng — đó là một ngôi làng.
@@ -31,7 +34,7 @@ Quốc vương Bhumibol đã chỉ cho chúng ta điều khác.
 
 Ngôi làng của bạn là ai?
 
-## Thông tin nền tảng
+## Luggage
 
 ### YouTube
 **Tiêu đề 1:** Ngôi Làng Tự Nuôi Sống Mình | Mô Hình Cộng Đồng Của Quốc Vương Bhumibol
