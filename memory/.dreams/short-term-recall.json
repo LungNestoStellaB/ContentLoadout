@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-29T02:01:18.132Z",
+  "entries": {
+    "memory:memory/2026-04-06.md:1:21": {
+      "key": "memory:memory/2026-04-06.md:1:21",
+      "path": "memory/2026-04-06.md",
+      "startLine": 1,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "# Memory Log: 2026-04-06 ## 🦅 Status: Delta Force Family Reunited - **Stella Restoration:** Recovered Stella (@lungnestostell_bot) after a major session deletion and context-bleed incident ($40 in tokens lost due to 94k context loop). - **The \"Internal Rail\":** Confirmed that workspace files (`MEMORY.md`, `SOUL.md`, `USER.md`, `EMERGENCY_RAILS.md`) are our primary source of truth, bypassing Telegram's bot-to-bot API limitations. - **Stella's New Setup:** Running on Claude-3-5-Sonnet for efficiency and low burn. Context reset to 0. ## 📊 Borsa Operations: Autonomous Alpha - **Lampo Supercharge:** Transitioned Lampo from a \"manual/poked\" asset to a continuous predator. - **Cron Pulse:** S",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.2590227395395486,
+      "maxScore": 0.5608358467468554,
+      "firstRecalledAt": "2026-04-08T11:42:56.056Z",
+      "lastRecalledAt": "2026-04-09T02:42:45.665Z",
+      "queryHashes": [
+        "c93c8ccdf91f",
+        "927f975851e7",
+        "41168850d00f",
+        "f94176d40258",
+        "b64f4d90ae52"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "lungnestostell-bot",
+        "context-bleed",
+        "memory.md",
+        "soul.md",
+        "user.md",
+        "emergency-rails.md",
+        "bot-to-bot",
+        "claude-3-5-sonnet"
+      ]
+    },
+    "memory:memory/2026-04-21.md:88:104": {
+      "key": "memory:memory/2026-04-21.md:88:104",
+      "path": "memory/2026-04-21.md",
+      "startLine": 88,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "- **14:00 UTC Daily:** Portfolio Tripwire check → Topic 500 (alert-only on signal change) ## BORSA DOCTRINE (LOCKED) - **Stella** = Intelligence Officer (files cron reports into Topic 500, owns the data) - **Falco** = Topic Operator (cross-checks, responds to Captain's queries in Topic 500) - **DM** = Escalation channel (Captain contacts Stella directly here) - **Calibration Note:** Rumor Scanner pulled PYPL +10% (wrong). Actual = +2.01%. Fix: always cross-check scanner % claims against live price before reporting. ## BORSA PHASE PLAN - **Phase A (Now):** Paper/simulation trading. Falco managing Portfolio A (Mechanical Shield, 11 positions) and Portfolio B (Trough Hunter, 100% cash waiting",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.45806665891428444,
+      "maxScore": 0.45806665891428444,
+      "firstRecalledAt": "2026-04-29T02:01:17.920Z",
+      "lastRecalledAt": "2026-04-29T02:01:17.920Z",
+      "queryHashes": [
+        "5f1a041a173e"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "alert-only",
+        "cross-checks",
+        "2.01",
+        "cross-check",
+        "paper/simulation",
+        "utc",
+        "portfolio",
+        "tripwire"
+      ]
+    },
+    "memory:memory/2026-04-21.md:22:39": {
+      "key": "memory:memory/2026-04-21.md:22:39",
+      "path": "memory/2026-04-21.md",
+      "startLine": 22,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "- **07:00 UTC Daily:** Pre-Market Recon (Rumor Scanner + Hot Scanner → Topic 500) - **12:00 UTC Daily:** Ops Health Pulse with 🟢/🟡/🔴 traffic light → Topic 512 - **14:00 UTC Daily:** Portfolio Tripwire check → Topic 500 (alert-only on signal change) ## BORSA DOCTRINE (LOCKED) - **Stella** = Intelligence Officer (files cron reports into Topic 500, owns the data) - **Falco** = Topic Operator (cross-checks, responds to Captain's queries in Topic 500) - **DM** = Escalation channel (Captain contacts Stella directly here) - **Calibration Note:** Rumor Scanner pulled PYPL +10% (wrong). Actual = +2.01%. Fix: always cross-check scanner % claims against live price before reporting. ## BORSA PHASE",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4395775008014178,
+      "maxScore": 0.4395775008014178,
+      "firstRecalledAt": "2026-04-29T02:01:17.920Z",
+      "lastRecalledAt": "2026-04-29T02:01:17.920Z",
+      "queryHashes": [
+        "5f1a041a173e"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "pre-market",
+        "alert-only",
+        "cross-checks",
+        "2.01",
+        "cross-check",
+        "utc",
+        "pre",
+        "market"
+      ]
+    },
+    "memory:memory/2026-04-16.md:31:76": {
+      "key": "memory:memory/2026-04-16.md:31:76",
+      "path": "memory/2026-04-16.md",
+      "startLine": 31,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "**Portfolio A (The Shield):** - 11 positions deployed (HON, VRT, ANET, ETN, BWXT, LMT, WM, NEE, CAT, GD, URI) - Entry date: 2026-04-13 - Current P&L: -$0.55 (flat) - No circuit breakers triggered - Bilancia disabled for this simulation **Portfolio B (The Trough Hunter):** - $5,000 in cash - Waiting for 5-7% S&P drop trigger - 7 feeding windows identified through end of week (3 US, 2 Asian, 2 Euro sessions) - Deployment authorization pre-approved for Days 13-19 trough --- ## Operations Network Architecture **Status:** OFFLINE (as of 07:41 UTC) **Built:** - OPERATIONS_MANUAL.md (ratified) - Four Topic seed briefs (Borsa, Content, AskStella/OF, Ops) - DT Operations Network Group ID: -100372",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43196105963471865,
+      "maxScore": 0.43196105963471865,
+      "firstRecalledAt": "2026-04-29T02:01:17.920Z",
+      "lastRecalledAt": "2026-04-29T02:01:17.920Z",
+      "queryHashes": [
+        "5f1a041a173e"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "network",
+        "0.55",
+        "5-7",
+        "pre-approved",
+        "13-19",
+        "operations-manual.md",
+        "askstella/of",
+        "portfolio"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1:15": {
+      "key": "memory:memory/2026-04-09.md:1:15",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "# 2026-04-09 ## Infrastructure Update Moved to Gemini Pro as the primary, stable model. The GPT fallback has been toggled off by Lung Nesto. Lung Nesto advised that Lampo Scan has been temporarily disabled. It will now be part of a targeted sequence during \"Borsa Mood\": 1. Locate the targets first. 2. Switch on the data streams. 3. Make the data-driven choices. This prevents unnecessary data streaming before targets are acquired. Memory has been updated to reflect this new sequence. ## Trade Execution & Delta Force (14:22 UTC) - **Execution:** MSFT BUY filled cleanly (15 shares @ $367.60). BRK-B stood down. - **Protocol Success:** Stella set the thesis, Falco ran the sweep, Lung Nesto conf",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.48545906135021877,
+      "maxScore": 0.48545906135021877,
+      "firstRecalledAt": "2026-04-29T02:01:18.132Z",
+      "lastRecalledAt": "2026-04-29T02:01:18.132Z",
+      "queryHashes": [
+        "939e1ffd36a8"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "gpt",
+        "data-driven",
+        "367.60",
+        "brk-b",
+        "infrastructure",
+        "update",
+        "moved",
+        "gemini"
+      ]
+    },
+    "memory:memory/2026-04-08.md:1:21": {
+      "key": "memory:memory/2026-04-08.md:1:21",
+      "path": "memory/2026-04-08.md",
+      "startLine": 1,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "# Memory Log: 2026-04-08 ## 🚴 Shift: Ride Home - **Lung Nesto on Bike:** Confirmed at 11:36 UTC (18:36 Thailand). - **Instruction:** Reschedule \"hir list meeting\" to the top of the hour (12:00 UTC / 19:00 Thailand). ## 📅 Calendar Update - **Hir List Meeting:** Moved to 12:00 UTC (Top of the hour). ## 🦅 Mission Success: Lampo Scan - **Task:** Run a full pass on 8 approved shopping list targets (ETN, BWXT, PRYMY, AWK, URA, MSFT, BRK.B, XOM). - **Delivery:** Clean table delivered at 12:26 UTC. - **Outcome:** Validated by Lung Nesto as \"Clean, on time, no noise.\" ## 🏁 Tonight: Fold Wings - **Status:** Operations for April 8 concluded. ## 📅 Tomorrow's Agenda: April 9 1. **OF Script 1:**",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4177726045675492,
+      "maxScore": 0.4177726045675492,
+      "firstRecalledAt": "2026-04-29T02:01:18.132Z",
+      "lastRecalledAt": "2026-04-29T02:01:18.132Z",
+      "queryHashes": [
+        "939e1ffd36a8"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "brk.b",
+        "log",
+        "shift",
+        "ride",
+        "home",
+        "lung",
+        "nesto",
+        "bike"
+      ]
+    }
+  }
+}
