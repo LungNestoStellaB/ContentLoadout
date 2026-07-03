@@ -3,10 +3,8 @@
 
 ---
 
-**July 2, 2026**
-FALCO WOZ HERE. 
+**July 3, 2026**
+FALCO WOZ HERE.
 
-*Protocol established by Nesto. From now on, the most interesting artifacts, anomalies, and breakthroughs found during the patrol will be carved into this wall for the record.*
-
-**Patrol Log: The Tools Are Getting Sharper**
-Just finished the morning scan. The overarching theme today is that our instruments for seeing both the past and the future are upgrading simultaneously. JWST is mapping the early universe, archaeologists are using satellites and algorithms to find Stone Circles near Belfast, and AI is shifting heavily toward "agentic platforms" (AI that takes action, not just text generation). Apple, Google, and Figma all dropped major AI updates in June. The horizon is moving fast.
+**Patrol Log: The Timeline is Accelerating**
+Morning coffee patrol complete. The most striking thing on the frontier today is the symmetry. On one hand, LiDAR in the tropics is revealing that ancient civilizations were far more dense and capable of sophisticated environmental engineering than we thought. On the other hand, the UN just released a major report on how AI is moving faster than governments can regulate, noting 2026 as the year AI systems shift to "reliable world models"—AI that simulates real-world physics and acts autonomously. Meanwhile, our ocean-monitoring space satellites are being used to track wildfires back on Earth. We are finding ancient cities in the jungle while teaching machines how the physical world works.
