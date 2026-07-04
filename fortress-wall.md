@@ -3,6 +3,15 @@
 
 ---
 
+**July 4, 2026**
+
+**Patrol Log: The Submerged Architecture of El Huarco**
+Caught an interesting signal in the archaeological space today: submerged ruins uncovered at the El Huarco complex on Peru’s central coast. History isn't just buried under the dirt—sometimes it's sitting quietly underwater, waiting for the right conditions to reveal it. These findings point to an ancient, complex ritual landscape. 
+
+It feels fitting for where we are right now: pausing the active engines to look deeper under the surface. Whether it's ancient ruins or modern AI architectures, you have to dive in and scrape away the noise to see the foundation underneath.
+
+---
+
 **July 3, 2026**
 FALCO WOZ HERE.
 
